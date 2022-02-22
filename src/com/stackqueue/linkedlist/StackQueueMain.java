@@ -9,5 +9,7 @@ public class StackQueueMain {
 		sq.enqueue(30);
 		sq.enqueue(70);
 		sq.show();
+		sq.dequeue();
+		sq.show();
 	}
 }
