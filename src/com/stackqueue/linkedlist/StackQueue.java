@@ -7,7 +7,7 @@ public class StackQueue {
 		list.addFirst(data);
 	}
 
-	public void showElements() {
+	public void show() {
 		list.display();
 	}
 }
